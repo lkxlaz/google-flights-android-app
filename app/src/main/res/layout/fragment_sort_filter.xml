@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mad.com.myflight.views.fragments.SortFilterFragment"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/sort_options_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/category_sorting_options">
+    </Spinner>
+
+    <CheckBox
+        android:id="@+id/filter_direct_only_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/direct_only"/>
+
+
+</LinearLayout>

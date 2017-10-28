@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "265490306156",
+    "firebase_url": "https://testdb-c138f.firebaseio.com",
+    "project_id": "testdb-c138f",
+    "storage_bucket": "testdb-c138f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265490306156:android:541292b64716ad8a",
+        "android_client_info": {
+          "package_name": "mad.com.myflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265490306156-o7rulte39qc0f05c14oc4s5qrik30kjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTkLElg5MckUw83Ksp771-O20nfEkl7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

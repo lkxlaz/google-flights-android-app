@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">MyFlight</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string-array name="category_cabin_class">
+        <item>Economy</item>
+        <item>Business</item>
+        <item>First</item>
+    </string-array>
+    <string-array name="category_passenger_number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="category_sorting_options">
+        <item>Lowest Price First</item>
+        <item>Shortest duration First</item>
+    </string-array>
+
+    <string name="app_label">MyFlight</string>
+    <string name="title_activity_view_search_results">ViewSearchResultsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adult">Adult:</string>
+    <string name="cabin_class">Cabin Class:</string>
+    <string name="child">Child:</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="infant">Infant:</string>
+    <string name="return_date">Return Date</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="single_trip">Single trip?</string>
+    <string name="arrow_icon"><![CDATA[--->]]></string>
+    <string name="direct_only">Direct only</string>
+    <string name="sort_amp_filter"><![CDATA[SORT&FILTER]]></string>
+
+</resources>
